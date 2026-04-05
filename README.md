@@ -8,7 +8,7 @@ The goal: demonstrate that Excel is a full analytics tool, not just a spreadshee
 
 ## Dashboard Preview
 
-![CRM Analytics Dashboard]([dashboard_screenshot.png](https://github.com/0waisAli/LeadPulse---CRM-Analytics---Excel/blob/f872e5be15eff2d0c7c9a344195e0bb5eb0bc52a/Dashboard%20preview.png))
+![CRM Analytics Dashboard](https://github.com/0waisAli/LeadPulse---CRM-Analytics---Excel/blob/f872e5be15eff2d0c7c9a344195e0bb5eb0bc52a/Dashboard%20preview.png)
 
 ## Project Structure
 
