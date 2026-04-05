@@ -1,4 +1,4 @@
-# LeadPulse — CRM Analytics — Excel
+# LeadPulse - CRM Analytics - Excel
 
 ## Overview
 
